@@ -18,10 +18,10 @@ export const HomePage = () => {
         <div className="home__body">
           <div>
             <Typography variant="h4" component="h1">
-              That`s a simple auth app.
+              Welcome here !
             </Typography>
             <Typography variant="h5" component="h2">
-              Thanks u tested it 😉
+              I hope u will find it fine 😉
             </Typography>
           </div>
           <Link to="/cude">
